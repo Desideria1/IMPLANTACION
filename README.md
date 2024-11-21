@@ -7,4 +7,5 @@ Proyecto enfocado para el desarrollo de una aplicación de suscripción y report
 ## AUTORES
 
 - [@Ing Oswaldo Anzola](https://github.com/rapanuti)
+- [@Thais  Pérez ](https://github.com/Desideria1)
 
